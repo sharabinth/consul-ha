@@ -3,6 +3,7 @@ This repo has a vagrant file to create an enterprise Consul Cluster with 3 serve
 
 ## Pre-Requisites
 Create a folder named as ```ent``` and copy the Consul enterprise binary zip file 
+
 ```e.g., consul-enterprise_1.4.4+prem_linux_amd64.zip```
 
 ## Description
